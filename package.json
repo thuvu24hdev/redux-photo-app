@@ -16,7 +16,8 @@
     "react-scripts": "4.0.3",
     "react-select": "^5.2.0",
     "reactstrap": "^9.0.0",
-    "sass": "^1.43.4"
+    "sass": "^1.43.4",
+    "yup": "^0.32.11"
   },
   "scripts": {
     "start": "react-scripts start",
